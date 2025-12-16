@@ -1,0 +1,48 @@
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T18:26:04.871Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T18:26:05.426Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T18:26:05.430Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T18:26:08.435Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T18:26:24.047Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T18:26:24.621Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T18:26:24.623Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T18:26:27.629Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T18:26:46.827Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T18:26:47.388Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T18:26:47.391Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T18:26:50.406Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T18:27:13.552Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T18:27:14.112Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T18:27:14.116Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T18:27:17.126Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T18:27:51.015Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T18:27:51.579Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T18:27:51.581Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T18:27:54.586Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T18:45:42.539Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T18:45:43.126Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T18:45:43.128Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T18:45:46.134Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T18:48:26.965Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T18:48:27.543Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T18:48:27.547Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T18:48:30.554Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T18:50:58.602Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T18:50:59.169Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T18:50:59.172Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T18:51:02.177Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T18:59:29.828Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T18:59:30.640Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T18:59:30.643Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T18:59:33.647Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T18:59:53.354Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T18:59:54.021Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T18:59:54.025Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T18:59:57.029Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T19:00:19.310Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T19:00:20.046Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T19:00:20.048Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T19:00:23.055Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-12-14T19:01:10.697Z"}
+{"level":"info","message":"Connected to Redis successfully","timestamp":"2025-12-14T19:01:11.343Z"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-12-14T19:01:11.346Z"}
+{"level":"info","message":"Background jobs initialized","timestamp":"2025-12-14T19:01:14.356Z"}
